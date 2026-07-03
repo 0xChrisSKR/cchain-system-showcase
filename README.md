@@ -4,7 +4,7 @@
 
 C-Chain is my AI-oriented blockchain infrastructure prototype, designed as the underlying infrastructure direction for later TRACE work.
 
-This repository is a public-safe architecture showcase. It explains system design and product evolution without exposing private source code, private network topology, deployment details, private RPC endpoints, or secrets.
+This repository explains the architecture and product evolution without exposing private source code, private network topology, deployment details, private RPC endpoints, or secrets.
 
 ## One-line Positioning
 
@@ -16,7 +16,7 @@ Web3 and AI-assisted product interfaces need clear transaction preparation, sign
 
 ## My Role
 
-I planned and designed the infrastructure direction, wallet boundary model, transaction preparation flow, proof / receipt concepts, RPC gateway direction, node topology concepts, and public-safe showcase package.
+I planned and designed the infrastructure direction, wallet boundary model, transaction preparation flow, proof / receipt concepts, RPC gateway direction, node topology concepts, and public showcase package.
 
 ## What I Designed
 
@@ -43,6 +43,7 @@ I planned and designed the infrastructure direction, wallet boundary model, tran
 
 - Architecture: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 - Public artifacts: [docs/PUBLIC_ARTIFACTS.md](docs/PUBLIC_ARTIFACTS.md)
+- Lessons learned: [docs/LESSONS_LEARNED.md](docs/LESSONS_LEARNED.md)
 - 104 summary: [docs/104_PROJECT_SUMMARY.md](docs/104_PROJECT_SUMMARY.md)
 - What this proves: [docs/WHAT_THIS_PROVES.md](docs/WHAT_THIS_PROVES.md)
 - What this does not claim: [docs/WHAT_THIS_DOES_NOT_CLAIM.md](docs/WHAT_THIS_DOES_NOT_CLAIM.md)
@@ -57,6 +58,13 @@ No product UI screenshot is claimed for this repository; it is presented as an a
 ## Relation to the Portfolio Narrative
 
 C-Chain connects the early Web3 product lineage with later verification and AI platform work: WorldPeace DAO -> C-Chain Infrastructure -> Immune RPC Gate -> TRACE ProofFeed -> TRACE AI Platform.
+
+## What A Reviewer Can Verify
+
+- The wallet and signing boundary model.
+- The architecture diagram and Mermaid source.
+- The proof / receipt direction.
+- The claim boundary: private / experimental infrastructure, not public mainnet adoption.
 
 ## Safe Status
 
