@@ -1,6 +1,9 @@
 # What This Does Not Claim
 
-- It does not claim a public blockchain launch.
-- It does not claim transaction volume, users, revenue, awards, or audits.
-- It does not expose implementation details.
-- It does not expose deployment, infrastructure, database, or proprietary implementation details.
+This showcase does not claim:
+
+- Public blockchain launch.
+- Public chain at scale.
+- Production users, transaction volume, revenue, awards, or audits.
+- Public release of private implementation details.
+- Exposure of deployment details, infrastructure topology, private RPC endpoints, database, secrets, or proprietary implementation details.
