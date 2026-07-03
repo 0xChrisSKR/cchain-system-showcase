@@ -1,0 +1,1 @@
+Architecture showcase for wallet boundaries, transaction preparation, signing boundaries, finality/status clarity, proof flows, and Web3-to-AI platform evolution.

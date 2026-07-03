@@ -1,0 +1,6 @@
+flowchart LR
+  Wallet["Wallet boundary"] --> Prepare["Transaction preparation"]
+  Prepare --> Sign["User signing boundary"]
+  Sign --> Status["Finality / status clarity"]
+  Status --> Proof["Proof and verification"]
+  Proof --> Trace["TRACE platform evolution"]
