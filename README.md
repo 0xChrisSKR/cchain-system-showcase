@@ -1,5 +1,10 @@
 # C-Chain System Showcase
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Chris%20Chuang-0f172a?style=flat-square)](https://github.com/0xChrisSKR)
+![Status](https://img.shields.io/badge/Status-Public%20Architecture-7c3aed?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Blockchain%20Infrastructure-2563eb?style=flat-square)
+![Claims](https://img.shields.io/badge/Claims-Verifiable%20Only-16a34a?style=flat-square)
+
 ![C-Chain architecture](assets/diagrams/architecture.svg)
 
 C-Chain is my AI-oriented blockchain infrastructure prototype, designed as the underlying infrastructure direction for later TRACE work.
@@ -43,6 +48,7 @@ I planned and designed the infrastructure direction, wallet boundary model, tran
 
 - Architecture: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
 - Public artifacts: [docs/PUBLIC_ARTIFACTS.md](docs/PUBLIC_ARTIFACTS.md)
+- Visual artifacts: [docs/SCREENSHOTS.md](docs/SCREENSHOTS.md)
 - Lessons learned: [docs/LESSONS_LEARNED.md](docs/LESSONS_LEARNED.md)
 - 104 summary: [docs/104_PROJECT_SUMMARY.md](docs/104_PROJECT_SUMMARY.md)
 - What this proves: [docs/WHAT_THIS_PROVES.md](docs/WHAT_THIS_PROVES.md)
@@ -58,6 +64,14 @@ No product UI screenshot is claimed for this repository; it is presented as an a
 ## Relation to the Portfolio Narrative
 
 C-Chain connects the early Web3 product lineage with later verification and AI platform work: WorldPeace DAO -> C-Chain Infrastructure -> Immune RPC Gate -> TRACE ProofFeed -> TRACE AI Platform.
+
+## Portfolio Ecosystem
+
+- WorldPeace DAO: https://github.com/0xChrisSKR/worldpeace-dao-showcase
+- C-Chain: this repository
+- Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
+- TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
+- TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
 
 ## What A Reviewer Can Verify
 
