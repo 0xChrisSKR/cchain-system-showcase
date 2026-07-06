@@ -65,7 +65,7 @@ I planned and designed the infrastructure direction, wallet boundary model, tran
 - Performance notes: [docs/PERFORMANCE.md](docs/PERFORMANCE.md)
 - Security notes: [docs/SECURITY.md](docs/SECURITY.md)
 - Future work: [docs/FUTURE_WORK.md](docs/FUTURE_WORK.md)
-- Career mapping: [docs/CAREER_MAPPING.md](docs/CAREER_MAPPING.md)
+- Reviewer notes: [docs/CAREER_MAPPING.md](docs/CAREER_MAPPING.md)
 
 ## Local Deployment Preview
 
@@ -99,14 +99,11 @@ No product UI screenshot is claimed for this repository; it is presented as an a
 
 C-Chain connects the early Web3 product lineage with later verification and AI platform work: WorldPeace DAO -> C-Chain Infrastructure -> Immune RPC Gate -> TRACE ProofFeed -> TRACE AI Platform.
 
-## Portfolio Ecosystem
+## Related Projects
 
 - WorldPeace DAO: https://github.com/0xChrisSKR/worldpeace-dao-showcase
-- C-Chain: this repository
 - Immune RPC Gate: https://github.com/0xChrisSKR/immune-rpc-gate
 - TRACE ProofFeed: https://github.com/TRACE-CChain-Labs/trace-prooffeed-solana-agent
-- TRACE AI Platform: https://github.com/0xChrisSKR/trace-ai-platform-showcase
-- GO2 Agent Lab: https://github.com/0xChrisSKR/go2-agent-lab
 
 ## What A Reviewer Can Verify
 
@@ -115,6 +112,6 @@ C-Chain connects the early Web3 product lineage with later verification and AI p
 - The proof / receipt direction.
 - The claim boundary: private / experimental infrastructure, not public mainnet adoption.
 
-## Safe Status
+## Status Note
 
-C-Chain is presented as private / experimental infrastructure. It is not presented as a public mainnet, public chain at scale, or production blockchain with user adoption.
+C-Chain is private / experimental infrastructure. I do not present it as a public mainnet, a production blockchain, or a system with user adoption.
