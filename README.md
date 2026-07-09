@@ -9,13 +9,13 @@
 
 ![C-Chain architecture](assets/architecture.png)
 
-C-Chain is my AI-oriented blockchain infrastructure prototype, designed as the underlying infrastructure direction for later TRACE work.
+C-Chain is infrastructure lineage behind later TRACE work. I keep it as proof / coordination / runtime background, not as the main product story.
 
 This repository explains the architecture and product evolution without exposing private source code, private network topology, deployment details, private RPC endpoints, or secrets.
 
 ## One-line Positioning
 
-Private / experimental blockchain infrastructure prototype connecting Web3 transaction safety, proof / receipt concepts, and AI platform evolution.
+Private / experimental infrastructure lineage connecting Web3 transaction safety, proof / receipt concepts, coordination boundaries, and TRACE runtime evolution.
 
 ## Problem
 
@@ -34,7 +34,7 @@ I planned and designed the infrastructure direction, wallet boundary model, tran
 - State handling.
 - WireGuard private network topology concept.
 - Explorer and health check direction.
-- Evolution path from WorldPeace DAO and C-Wallet toward TRACE ProofFeed and TRACE AI Platform.
+- Evolution path from WorldPeace DAO and C-Wallet toward TRACE ProofFeed and the chat-first TRACE Agent OS direction.
 
 ## Tech Stack
 
@@ -98,6 +98,8 @@ No product UI screenshot is claimed for this repository; it is presented as an a
 ## Relation to the Portfolio Narrative
 
 C-Chain connects the early Web3 product lineage with later verification and AI platform work: WorldPeace DAO -> C-Chain Infrastructure -> Immune RPC Gate -> TRACE ProofFeed -> TRACE AI Platform.
+
+In the current public story, C-Chain is not the main product. It is the infrastructure lineage that explains why TRACE cares about proof, receipts, safe coordination, and explicit state boundaries.
 
 ## Related Projects
 
